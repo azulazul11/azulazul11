@@ -1,7 +1,7 @@
-Hello there!!
-I love playing board games
-I'm currently learning how to program
-I'm interested in cars and domino 
+Hello there 🤔🐞!!
+-I love playing board games
+-I'm currently learning how to program
+-I'm interested in cars and domino 
 <!--
 **azulazul11/azulazul11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
